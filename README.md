@@ -98,7 +98,4 @@ npm run mint
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+
