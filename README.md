@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x722ab2a3fBA1bFa6021cc730215A06b24434B8fd
 ```
 
 ## Steps
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc721-mint-token.git
+git clone https://github.com/Mazefire12/swisstronik-erc721-mint-token.git
 ```
 
 ```
